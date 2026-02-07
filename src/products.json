@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Goldene Rolex",
+    "price": 2900,
+    "image": "https://example.com/rolex1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Smart Watch",
+    "price": 3499,
+    "image": "https://example.com/rolex2.jpg"
+  }
+]
